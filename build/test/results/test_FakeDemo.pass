@@ -1,0 +1,16 @@
+---
+:source:
+  :path: test
+  :file: test_FakeDemo.c
+:successes: []
+:failures: []
+:ignores:
+- :test: test_FakeDemo_NeedToImplement
+  :line: 10
+  :message: Need to Implement FakeDemo
+:counts:
+  :total: 1
+  :passed: 0
+  :failed: 0
+  :ignored: 1
+:stdout: []
